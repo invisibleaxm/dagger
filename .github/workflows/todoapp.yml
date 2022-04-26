@@ -13,9 +13,9 @@ env:
   # ⚠️ APP_NAME must be unique across all of Netlify ⚠️
   # The deploy action will fail with a curl error if this is not the case
   # TODO: make app name optional in the Netlify package and generate one by default
-  APP_NAME: todoapp-dagger-europa
+  APP_NAME: todoapp-dagger-invisibleaxm
   # Set this to your Netlify team:
-  NETLIFY_TEAM: blocklayer
+  NETLIFY_TEAM: invisibleaxm
   # Configure NETLIFY_TOKEN as a GitHub Actions secret after you create one via:
   # https://app.netlify.com/user/applications/personal
   NETLIFY_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
